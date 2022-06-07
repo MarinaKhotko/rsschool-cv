@@ -33,19 +33,21 @@ function multiply(a,b){
 ----
 #### Work experience:
 
-Have experience in the field of mechanical engineering.
-----
+Have experience in field of mechanical engineering
+
 #### Education:
 
 Higher technical education
 
 ##### Courses:
 
-• PTC Creo Parametric
-• JS/FE Pre-School (in progress)
-• Git, Github (in progress)
+* PTC Creo Parametric
+* JS/FE Pre-School (in progress)
+* Git? GitHub (in progress)
+
 ----
 #### Languages:
 
-•  English (intermediate according to
-•  Russian (native)
+*  English (intermediate according to [EFset](https://www.efset.org)
+
+*  Russian (native)
